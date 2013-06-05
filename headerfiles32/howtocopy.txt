@@ -1,0 +1,9 @@
+
+
+
+GLUT :    C:\Program Files\Microsoft Visual Studio 8\VC\include\GL(Create the folder GL maunually)
+
+glut32:   C:\Program Files\Microsoft Visual Studio 8\VC\lib
+
+glut32.dll:   C:\Windows\System32
+
