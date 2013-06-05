@@ -18,9 +18,9 @@ How to Run:
 4.Then copy the different header files to specific path(refer the "howtocopy.txt" from that folder).
 
 OR
-1.Download the "code.txt".
+1.Download the "code.cpp".
 2.Then create a project(File->new->Visual C++->windows32 application->(next)->empty application,console application->(finish).
-3.Then add a new C++ file to that project.
+3.Then add the file code.cpp to that folder.
 4.Copy the contents from "code.txt" to that file.
 
 finish, now you can run the project!!!!
